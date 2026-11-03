@@ -89,7 +89,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -1058,7 +1057,7 @@
 			)
 		)
 		(property "Value" "12 to 5 voltoge regulator"
-			(at 3 17.54 180)
+			(at 2 17.54 180)
 			(layer "F.Fab")
 			(uuid "cb44caf0-bed7-44eb-b1f6-c70e2ee733b7")
 			(effects
